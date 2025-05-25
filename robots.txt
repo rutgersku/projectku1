@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://careers.archives.nbits.rutgers.edu/sitemap.xml
